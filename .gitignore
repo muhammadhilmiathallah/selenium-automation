@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Selenium WebDriver binaries
+chromedriver.exe
+chromedriver
+geckodriver
+msedgedriver
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
