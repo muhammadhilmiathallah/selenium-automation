@@ -9,11 +9,17 @@ selenium
 webdriver-manager
 pytest
 langsung aja di terminal instlall 
-pip install -r requirements.txt 
+
+"pip install -r requirements.txt"
+
 Atau install manual
-pip install selenium webdriver-manager pytest pytest-html
+
+"pip install selenium webdriver-manager pytest pytest-html"
 
 untuk menjalan kan perintah
-pytest -v
+
+"pytest -v"
+
 atau kalau mau cek satu satu
-pytest tests/test_login_negative.py (tinggal ubah nama file di folder tests aja)
+
+"pytest tests/test_login_negative.py" (tinggal ubah nama file di folder tests aja)
